@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/flavor-fanatics/static/css/main.e9d51f2c.css",
-    "main.js": "/flavor-fanatics/static/js/main.73032c47.js",
+    "main.css": "/flavor-fanatics/static/css/main.a378b651.css",
+    "main.js": "/flavor-fanatics/static/js/main.3e9bdbaf.js",
     "static/js/787.3e22468a.chunk.js": "/flavor-fanatics/static/js/787.3e22468a.chunk.js",
-    "static/media/logo.svg": "/flavor-fanatics/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/chad-montano-MqT0asuoIcU-unsplash.jpg": "/flavor-fanatics/static/media/chad-montano-MqT0asuoIcU-unsplash.67f474f0beae80cbdbbf.jpg",
     "index.html": "/flavor-fanatics/index.html",
-    "main.e9d51f2c.css.map": "/flavor-fanatics/static/css/main.e9d51f2c.css.map",
-    "main.73032c47.js.map": "/flavor-fanatics/static/js/main.73032c47.js.map",
+    "main.a378b651.css.map": "/flavor-fanatics/static/css/main.a378b651.css.map",
+    "main.3e9bdbaf.js.map": "/flavor-fanatics/static/js/main.3e9bdbaf.js.map",
     "787.3e22468a.chunk.js.map": "/flavor-fanatics/static/js/787.3e22468a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9d51f2c.css",
-    "static/js/main.73032c47.js"
+    "static/css/main.a378b651.css",
+    "static/js/main.3e9bdbaf.js"
   ]
 }
