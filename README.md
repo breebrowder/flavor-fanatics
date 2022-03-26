@@ -1,8 +1,10 @@
 # Flavor Fanatics Recipe App
 
-![](https://github.com/breebrowder/flavor-fanatics/blob/master/src/img/flav_fan.png)
+![](https://github.com/breebrowder/flavor-fanatics/blob/gh-pages/img/flav_fan.png)
 
-### Project demo of a recipe application that works by entering a keyword ingredient in the search query and then returning a list of recipes that include that ingredient. Try it out [here](https://breebrowder.github.io/flavor-fanatics)!!
+# About
+
+### A recipe application demo that works by entering a keyword ingredient in the search query and then returning a list of recipes that include that ingredient. Try it out [here](https://breebrowder.github.io/flavor-fanatics).
 
 
 ## About the Developer  💬
