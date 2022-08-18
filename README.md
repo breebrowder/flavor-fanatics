@@ -2,7 +2,7 @@
 
 ![](https://github.com/breebrowder/flavor-fanatics/blob/gh-pages/img/flav_fan.png)
 
-### Project demo of a recipe application that works by entering a keyword ingredient in the search query and then returning a list of recipes that include that ingredient. Try it out [here](https://breebrowder.github.io/flavor-fanatics).
+### Project demo of a recipe application that works by entering a keyword ingredient in the search query and then returning a list of recipes that include that ingredient. 
 
 
 ## About the Developer  💬
